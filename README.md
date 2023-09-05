@@ -1,2 +1,1 @@
-# CSE360
-Computer Interfacing
+The smart sanitizer would use the HC-SR04 sensor to measure hand distances and the MG995 to propel sanitizer when the hands were in close proximity. The LM35 sensor would measure the hand temperature, the MQ3 sensor would measure the alcohol level (to make sure there is enough hand sanitizer on hand), and the BME280 sensor would measure both the temperature and humidity levels. The output device will be the LCD monitor.
